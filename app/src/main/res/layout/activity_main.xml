@@ -13,7 +13,7 @@
             android:layout_marginStart="16dp"
             android:layout_marginBottom="16dp"
             android:layout_marginTop="16dp"
-            android:textSize="40sp"
+            android:textSize="40"
             android:text="@string/tasks" />
 
         <androidx.recyclerview.widget.RecyclerView
